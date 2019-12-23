@@ -6,6 +6,8 @@
 			</ref>
 			<ref name="JobScheduling.dat" type="data">
 			</ref>
+			<ref name="JobScheduling.ops" type="setting">
+			</ref>
 		</config>
 	</configs>
 	
