@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="ASCII"?><project>
 	<version>1.0</version>
 	<configs>
-		<config default="true" name="Configuration1" category="opl">
+		<config default="true" name="Disjunctive1" category="opl">
 			<ref name="JobScheduling.mod" type="model">
 			</ref>
 			<ref name="JobScheduling.dat" type="data">
 			</ref>
 			<ref name="JobScheduling.ops" type="setting">
+			</ref>
+		</config>
+		<config default="false" name="Liao" category="opl">
+			<ref name="Liao_Jobsheduling.mod" type="model">
+			</ref>
+			<ref name="JobScheduling.dat" type="data">
 			</ref>
 		</config>
 	</configs>

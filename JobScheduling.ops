@@ -2,6 +2,6 @@
 
 <settings version="2">
   <category name="cplex">
-    <setting name="epgap" value="0.92"/>
+    <setting name="epgap" value="0.9"/>
   </category>
 </settings>
