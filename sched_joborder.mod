@@ -31,6 +31,7 @@ subject to {
 
 execute {
   for (var j in J) {    
-      write(itvs[j].start + " ");
+      write(j, " job delay: ", Opl.maxl(itvs[j].end - d[j], 0)  + "days");
+      write("\n");
   }
 }
