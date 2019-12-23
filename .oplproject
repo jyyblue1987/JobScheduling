@@ -15,6 +15,12 @@
 			<ref name="JobScheduling.dat" type="data">
 			</ref>
 		</config>
+		<config default="false" name="sched_jobshop_cp" category="opl">
+			<ref name="sched_joborder.mod" type="model">
+			</ref>
+			<ref name="JobScheduling.dat" type="data">
+			</ref>
+		</config>
 	</configs>
 	
 </project>
