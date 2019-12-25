@@ -20,7 +20,7 @@
  dvar sequence mchs in all(j in J) itvs[j];
  
  execute {
-//  		cp.param.FailLimit = 100000;
+  		cp.param.FailLimit = 100000;
 }
 
 minimize sum(j in J) maxl(endOf(itvs[j]) - d[j], 0) * r[j];

@@ -1,0 +1,281 @@
+Shop:               Single
+Job:                J001
+  RGB:                229;118;5
+  Release:            0
+  Due:                27
+  Weight:             49
+  Oper:               Uno;11;A
+
+Job:                J002
+  RGB:                210;175;232
+  Release:            0
+  Due:                24
+  Weight:             30
+  Oper:               Uno;11;A
+
+Job:                J003
+  RGB:                46;231;189
+  Release:            0
+  Due:                36
+  Weight:             13
+  Oper:               Uno;12;A
+
+Job:                J004
+  RGB:                255;7;213
+  Release:            0
+  Due:                19
+  Weight:             23
+  Oper:               Uno;14;A
+
+Job:                J005
+  RGB:                135;180;82
+  Release:            0
+  Due:                22
+  Weight:             17
+  Oper:               Uno;6;A
+
+Job:                J006
+  RGB:                228;233;161
+  Release:            0
+  Due:                21
+  Weight:             16
+  Oper:               Uno;13;A
+
+Job:                J007
+  RGB:                148;39;227
+  Release:            0
+  Due:                40
+  Weight:             25
+  Oper:               Uno;8;A
+
+Job:                J008
+  RGB:                143;140;185
+  Release:            0
+  Due:                35
+  Weight:             46
+  Oper:               Uno;17;A
+
+Job:                J009
+  RGB:                39;252;20
+  Release:            0
+  Due:                34
+  Weight:             23
+  Oper:               Uno;19;A
+
+Job:                J010
+  RGB:                248;195;31
+  Release:            0
+  Due:                35
+  Weight:             34
+  Oper:               Uno;5;A
+
+Job:                J011
+  RGB:                201;142;107
+  Release:            0
+  Due:                26
+  Weight:             29
+  Oper:               Uno;2;A
+
+Job:                J012
+  RGB:                86;196;230
+  Release:            0
+  Due:                35
+  Weight:             11
+  Oper:               Uno;5;A
+
+Job:                J013
+  RGB:                70;253;110
+  Release:            0
+  Due:                24
+  Weight:             48
+  Oper:               Uno;14;A
+
+Job:                J014
+  RGB:                119;215;148
+  Release:            0
+  Due:                38
+  Weight:             17
+  Oper:               Uno;8;A
+
+Job:                J015
+  RGB:                168;213;173
+  Release:            0
+  Due:                36
+  Weight:             47
+  Oper:               Uno;12;A
+
+Job:                J016
+  RGB:                242;26;120
+  Release:            0
+  Due:                21
+  Weight:             30
+  Oper:               Uno;4;A
+
+Job:                J017
+  RGB:                3;166;251
+  Release:            0
+  Due:                40
+  Weight:             13
+  Oper:               Uno;11;A
+
+Job:                J018
+  RGB:                113;218;36
+  Release:            0
+  Due:                20
+  Weight:             45
+  Oper:               Uno;11;A
+
+Job:                J019
+  RGB:                175;232;64
+  Release:            0
+  Due:                37
+  Weight:             35
+  Oper:               Uno;2;A
+
+Job:                J020
+  RGB:                222;90;137
+  Release:            0
+  Due:                19
+  Weight:             12
+  Oper:               Uno;10;A
+
+Job:                J021
+  RGB:                247;125;242
+  Release:            0
+  Due:                24
+  Weight:             50
+  Oper:               Uno;18;A
+
+Job:                J022
+  RGB:                185;162;158
+  Release:            0
+  Due:                32
+  Weight:             17
+  Oper:               Uno;2;A
+
+Job:                J023
+  RGB:                162;254;134
+  Release:            0
+  Due:                31
+  Weight:             49
+  Oper:               Uno;19;A
+
+Job:                J024
+  RGB:                179;102;177
+  Release:            0
+  Due:                26
+  Weight:             47
+  Oper:               Uno;18;A
+
+Job:                J025
+  RGB:                243;206;98
+  Release:            0
+  Due:                33
+  Weight:             46
+  Oper:               Uno;7;A
+
+Job:                J026
+  RGB:                120;100;250
+  Release:            0
+  Due:                33
+  Weight:             29
+  Oper:               Uno;6;A
+
+Job:                J027
+  RGB:                253;62;176
+  Release:            0
+  Due:                34
+  Weight:             23
+  Oper:               Uno;18;A
+
+Job:                J028
+  RGB:                228;60;65
+  Release:            0
+  Due:                22
+  Weight:             26
+  Oper:               Uno;9;A
+
+Job:                J029
+  RGB:                164;121;227
+  Release:            0
+  Due:                24
+  Weight:             46
+  Oper:               Uno;11;A
+
+Job:                J030
+  RGB:                250;109;96
+  Release:            0
+  Due:                38
+  Weight:             15
+  Oper:               Uno;11;A
+
+Job:                J031
+  RGB:                106;137;231
+  Release:            0
+  Due:                31
+  Weight:             27
+  Oper:               Uno;13;A
+
+Job:                J032
+  RGB:                22;226;112
+  Release:            0
+  Due:                21
+  Weight:             28
+  Oper:               Uno;10;A
+
+Job:                J033
+  RGB:                49;211;162
+  Release:            0
+  Due:                32
+  Weight:             23
+  Oper:               Uno;8;A
+
+Job:                J034
+  RGB:                44;187;214
+  Release:            0
+  Due:                20
+  Weight:             39
+  Oper:               Uno;15;A
+
+Job:                J035
+  RGB:                60;163;249
+  Release:            0
+  Due:                21
+  Weight:             48
+  Oper:               Uno;4;A
+
+Job:                J036
+  RGB:                245;255;124
+  Release:            0
+  Due:                39
+  Weight:             39
+  Oper:               Uno;11;A
+
+Job:                J037
+  RGB:                200;95;83
+  Release:            0
+  Due:                25
+  Weight:             30
+  Oper:               Uno;19;A
+
+Job:                J038
+  RGB:                90;248;156
+  Release:            0
+  Due:                33
+  Weight:             49
+  Oper:               Uno;2;A
+
+Job:                J039
+  RGB:                94;221;0
+  Release:            0
+  Due:                19
+  Weight:             42
+  Oper:               Uno;11;A
+
+Job:                J040
+  RGB:                214;88;227
+  Release:            0
+  Due:                23
+  Weight:             35
+  Oper:               Uno;10;A
+
